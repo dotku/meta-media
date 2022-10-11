@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.logo {
+  font-size: 10rem;
+}
+.title {
+  font-size: 6rem;
+}
+.meta-font {
+  font-family: sans-serif;
+  background: -webkit-linear-gradient(
+    rgb(255, 143, 178) 0%,
+    rgb(167, 151, 255) 50%,
+    rgb(0, 229, 255) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.main {
+  text-align: center;
+  font-size: 72px;
+}
+a {
+  display: block;
+  width: 800px;
+  text-decoration: none;
+  padding: 10rem;
+}
+body {
+  text-align: center;
+}
